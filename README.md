@@ -54,6 +54,42 @@ landing-page-builder/
 
 ## 🚦 Como Começar
 
+### Instalação
+
+**Backend:**
+```bash
+cd backend
+npm install
+cp .env.example .env
+# Configure as variáveis de ambiente no .env
+npm run dev
+```
+
+**Frontend:**
+```bash
+cd frontend
+npm install
+cp .env.example .env
+# Configure as variáveis de ambiente no .env
+npm run dev
+```
+
+### Executar Testes
+
+**Backend:**
+```bash
+cd backend
+npm test
+```
+
+**Frontend:**
+```bash
+cd frontend
+npm test
+```
+
+### Desenvolvimento
+
 Siga as tarefas em `.kiro/specs/landing-page-builder/tasks.md` para implementar o projeto passo a passo.
 
 ## 📄 Licença

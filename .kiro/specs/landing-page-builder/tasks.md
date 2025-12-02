@@ -1,6 +1,8 @@
 # Plano de Implementação - Landing Page Builder
 
-- [ ] 1. Configurar estrutura do projeto e dependências
+- [x] 1. Configurar estrutura do projeto e dependências
+
+
   - Criar estrutura de pastas para frontend (React + Vite) e backend (Node.js + Express)
   - Instalar dependências: React, Tailwind, Express, PostgreSQL client, JWT, bcrypt
   - Configurar TypeScript em ambos os projetos
